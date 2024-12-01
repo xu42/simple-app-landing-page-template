@@ -18,6 +18,7 @@
 ```
 .
 ├── index.html          # 主落地页
+├── privacy.html        # 隐私政策页面
 ├── images/            
 │   ├── app-icon.png    # 应用图标
 │   ├── screenshot-*.jpg # 应用截图

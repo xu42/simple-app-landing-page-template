@@ -18,6 +18,7 @@ A clean, responsive landing page template for mobile applications. Built with pu
 ```
 .
 ├── index.html          # Main landing page
+├── privacy.html        # Privacy policy page
 ├── images/            
 │   ├── app-icon.png    # Your app icon
 │   ├── screenshot-*.jpg # App screenshots
